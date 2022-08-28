@@ -62,7 +62,7 @@ namespace DostApp
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Dashboard f1 = new Dashboard();
+            attendantInterface f1 = new attendantInterface();
             f1.Show();
         }
     }

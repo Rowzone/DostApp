@@ -13,8 +13,6 @@ namespace DostApp
 {
     public partial class Admin : Form
     {
-        SqlConnection con = new SqlConnection();
-        SqlCommand com = new SqlCommand();
         public Admin()
         {
             InitializeComponent();
@@ -27,7 +25,9 @@ namespace DostApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Dashboard f1 = new Dashboard();
+            f1.Show();
         }
 
         private void txtUserEnter(object sender, EventArgs e)

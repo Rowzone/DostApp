@@ -7,13 +7,25 @@
     <Compile Update="Attendant.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="attendantInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Dashboard.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="UniNav.cs">
+    <Compile Update="productManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userManagement.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

@@ -121,25 +121,52 @@
   <data name="Report_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Report_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="imageMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\imageMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="manageProducts_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\manageProducts_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="userProfile_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\userProfile_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="shopriteLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\shopriteLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="manageProductsBlack_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manageProductsBlack_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="imageMain#1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\imageMain#1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="manageUsers_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\manageUsers_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="category_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\category_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="imageMain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageMain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Logout_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Logout_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manageProducts_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manageProducts_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="profile_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\profile_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="receipt_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\receipt_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ReportBlack_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ReportBlack_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="userProfile_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\userProfile_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="manageUsers_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\manageUsers_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="userProfileBlack_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\userProfileBlack_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="shopriteLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\shopriteLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="till_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\till_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sales_64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sales_64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LogoutSmall_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LogoutSmall_32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
